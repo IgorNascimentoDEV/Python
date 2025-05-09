@@ -1,6 +1,6 @@
 # Python Ementa: 
 
- 4. Seus primeiros programas em Python ⚙️
+ 4. Seus primeiros programas em Python ⚙️ 30
  5. Mais sobre Variáveis
  6. If - Condições em Python
  7. Strings - Textos e a importância no Python
